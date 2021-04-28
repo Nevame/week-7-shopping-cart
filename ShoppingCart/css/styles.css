@@ -1,0 +1,70 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+hr {
+	width:20%;
+	border:1px solid orange;
+	margin:auto;
+}
+
+
+.shirts{
+	width:100px;
+}
+
+
+.caption span {
+	font-size: 30px;
+}
+
+.caption h5 {
+	font-size:20px;
+}
+
+.myaddtocart {
+	background-color: black;
+	margin-bottom: 0px;
+	width: 250px;
+	border-radius: 0px;
+
+}
+
+
+.my-thumbnail {
+	border:none;
+}
+
+.caption .text-muted{
+	font-size:20px;
+
+}
+
+.circle {
+	border-radius: 80px;
+}
+
+.A {
+	margin-bottom:9px;
+}
+
+.A {
+	margin-top: 10px;
+}
+
+.kk{
+	margin-top: 20px;
+}
+
+.Free {
+	background-color: black;
+	position:absolute; top:0; right:0;
+	margin-right: 42px;
+	color:white;
+}
+
+.order-by>strong{
+	margin-left: 69%;
+}
